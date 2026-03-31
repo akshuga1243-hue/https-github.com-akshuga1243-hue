@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Akansha Data Science Engineer<br>Backend & core language: Python,Javascript,node.js,Java,C/C++<br>Framework : Django ,<br>Databases : Postgresql ,Mongodb,MySQL<br>Clode & Devops :Git/Github
+I'm Akansha Computer ScienceEnginee(DataScience)<br>Backend & core language: Python,Javascript,node.js,Java,C/C++<br>Framework : Django ,<br>Databases : Postgresql ,Mongodb,MySQL<br>Clode & Devops :Git/Github
 
 
 ## 🌐 Socials:
