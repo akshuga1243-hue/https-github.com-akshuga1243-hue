@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Akansha a student of Computer Science Engineer(DataScience)<br>Backend & core language: Python,Javascript,node.js,Java,C/C++<br>Framework : Django ,<br>Databases : Postgresql ,Mongodb,MySQL<br>Clode & Devops :Git/Github
+I’m a Computer Science student currently exploring the field of Data Science. I have a basic understanding of programming and enjoy learning about data analysis, visualization, and machine learning. I am passionate about improving my skills and building projects step by step.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,4 @@ I'm Akansha a student of Computer Science Engineer(DataScience)<br>Backend & cor
 ---
 [![](https://visitcount.itsvg.in/api?id=akshuga1243-hue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># https-github.com-akshuga1243-hue
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
